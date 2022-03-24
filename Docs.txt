@@ -1,0 +1,12 @@
+********Plugins*********
+
+	1)Emmet	--For writing faster html like 
+	  h1.myclass or h1.myclass.myclass2
+	  or h1#myid or h1#myid.myclass
+	  or div.myclass or .myclass or div*3
+
+********Packages********
+
+	*Auto Rename tag	//In atom It is <Double-tag>
+	*bracket Pair Colorizer	//In atom It is <Bracket-Colorizer>
+	*Prettier		//In atom It is <prettier-atom>
